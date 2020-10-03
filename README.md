@@ -3,11 +3,8 @@ This is my repository for my more serious projects done alongside my bachelor st
 <br>
 <br>
 ## Projects:
-- [x] Kaggle TReNDS NeuroImaging
+- [x] [Kaggle TReNDS NeuroImaging](https://www.kaggle.com/c/trends-assessment-prediction)
 - [ ] (Django) Web application for dog breed recognition
 - [ ] Music beat recognition
-<input type="checkbox" disabled checked> Kaggle TReNDS NeuroImaging
-<input type="checkbox" disabled> (Django) Application for dog breed recognition
-<input type="checkbox" disabled> Genre-based music beat generation 
 
 
