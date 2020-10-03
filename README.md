@@ -4,8 +4,8 @@ This is my repository for my more serious projects done alongside my bachelor st
 <br>
 ## Projects:
 - [x] [Kaggle TReNDS NeuroImaging](https://www.kaggle.com/c/trends-assessment-prediction)
-- [/] (Django) Web application for dog breed recognition (in the making)
+- [-] (Django) Web application for dog breed recognition (in the making)
 - [ ] Music beat recognition
-- [/] Gesture commands for spotify app
+- [-] Gesture commands for spotify app (in the making)
 
 
